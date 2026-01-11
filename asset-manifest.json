@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Bday/static/css/main.ed5f1cc8.css",
+    "main.js": "/Bday/static/js/main.20387b46.js",
+    "static/media/7.png": "/Bday/static/media/7.fb98ed7fccc686a29ce4.png",
+    "static/media/song.mp3": "/Bday/static/media/song.e4e671fbd2e141802d22.mp3",
+    "static/media/8.jpg": "/Bday/static/media/8.46b8f05acf80d12fce12.jpg",
+    "static/media/5.jpg": "/Bday/static/media/5.ad6688868b2ddd4974fd.jpg",
+    "static/media/4.jpg": "/Bday/static/media/4.8365ac1181cfc8ae024b.jpg",
+    "static/media/3.jpg": "/Bday/static/media/3.019afa702f888237e361.jpg",
+    "static/media/1.jpg": "/Bday/static/media/1.6fdfee4343f3a22b6cfb.jpg",
+    "static/media/2.jpg": "/Bday/static/media/2.5ff5fd8057f8d758c08e.jpg",
+    "static/media/6.jpg": "/Bday/static/media/6.398df4eb6c495037f308.jpg",
+    "static/media/song1.mp3": "/Bday/static/media/song1.8a7f5e09387d4b800327.mp3",
+    "static/media/10.png": "/Bday/static/media/10.e0adc8f61cad00c781e2.png",
+    "index.html": "/Bday/index.html",
+    "main.ed5f1cc8.css.map": "/Bday/static/css/main.ed5f1cc8.css.map",
+    "main.20387b46.js.map": "/Bday/static/js/main.20387b46.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ed5f1cc8.css",
+    "static/js/main.20387b46.js"
+  ]
+}
